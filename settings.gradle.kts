@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestLeetCode"
 include(":app")
- 
+include(":leetcode")
